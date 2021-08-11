@@ -1,0 +1,34 @@
+title = "M2PI Team # Project Site"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+Paginate = 3 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "A project website for Team X at Math^Industry"
+  facebook = ""
+  twitter = "https://twitter.com/pimsmath"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/ianabc"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-blue"
+  featured_image = "/images/smb.jpg"
+  recent_posts_number = 2
